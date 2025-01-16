@@ -79,3 +79,16 @@ body {
 .subrayado{
     text-decoration: underline;
 }
+
+.border-radius{
+    border-radius: 40px;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
